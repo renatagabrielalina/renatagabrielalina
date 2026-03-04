@@ -3,11 +3,11 @@
 **`Atuação em projeto de pesquisa e desenvolvimento`**
 **`Interesse em análise de requisitos e gestão de produto`**
 
-**Sou formada em *Análise e Desenvolvimento de Sistemas*, atualmente em transição para a área de Tecnologia, com foco em desenvolvimento, suporte técnico e gestão de dados. *Estou cursando graduação em Banco de Dados*, aprofundando meus conhecimentos em modelagem, estruturação e análise de informações, com direcionamento estratégico para atuação em ambientes corporativos.
+**`Sou formada em *Análise e Desenvolvimento de Sistemas*, atualmente em transição para a área de Tecnologia, com foco em desenvolvimento, suporte técnico e gestão de dados. *Estou cursando graduação em Banco de Dados*, aprofundando meus conhecimentos em modelagem, estruturação e análise de informações, com direcionamento estratégico para atuação em ambientes corporativos.
 
 Possuo sólida experiência em atendimento ao cliente e gestão, além de vivência prática na identificação e resolução de problemas de rede. Tenho direcionado meus estudos para o ecossistema SAP, com foco em compreender processos de negócio integrados, banco de dados e soluções empresariais, buscando construir uma carreira voltada à consultoria e suporte em sistemas de gestão.
 
-Tenho perfil analítico, facilidade de aprendizado e boas habilidades interpessoais, o que me permite atuar de forma colaborativa em equipe. Busco oportunidades em ambientes que valorizem a diversidade, o aprendizado contínuo e a inovação, com interesse constante em aprimorar minhas competências técnicas e evoluir na área de *Tecnologia e SAP*.**
+Tenho perfil analítico, facilidade de aprendizado e boas habilidades interpessoais, o que me permite atuar de forma colaborativa em equipe. Busco oportunidades em ambientes que valorizem a diversidade, o aprendizado contínuo e a inovação, com interesse constante em aprimorar minhas competências técnicas e evoluir na área de *Tecnologia e SAP*.´**
 
 
 <p align="left">
